@@ -1,0 +1,7 @@
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Colecoes\bin\Debug\Colecoes.exe.config
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Colecoes\bin\Debug\Colecoes.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Colecoes\bin\Debug\Colecoes.pdb
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Colecoes\obj\Debug\Colecoes.csproj.AssemblyReference.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Colecoes\obj\Debug\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Colecoes\obj\Debug\Colecoes.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Colecoes\obj\Debug\Colecoes.pdb
