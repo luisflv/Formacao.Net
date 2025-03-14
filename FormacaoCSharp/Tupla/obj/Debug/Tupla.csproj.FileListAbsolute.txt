@@ -1,0 +1,7 @@
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Tupla\bin\Debug\Tupla.exe.config
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Tupla\bin\Debug\Tupla.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Tupla\bin\Debug\Tupla.pdb
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Tupla\obj\Debug\Tupla.csproj.AssemblyReference.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Tupla\obj\Debug\Tupla.csproj.CoreCompileInputs.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Tupla\obj\Debug\Tupla.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Tupla\obj\Debug\Tupla.pdb
