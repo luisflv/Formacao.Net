@@ -1,0 +1,7 @@
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Deconstruct\obj\Debug\Deconstruct.csproj.AssemblyReference.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Deconstruct\obj\Debug\Deconstruct.csproj.CoreCompileInputs.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Deconstruct\bin\Debug\Deconstruct.exe.config
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Deconstruct\bin\Debug\Deconstruct.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Deconstruct\bin\Debug\Deconstruct.pdb
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Deconstruct\obj\Debug\Deconstruct.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Deconstruct\obj\Debug\Deconstruct.pdb

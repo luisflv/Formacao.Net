@@ -1,0 +1,7 @@
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\IfTernario\bin\Debug\IfTernario.exe.config
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\IfTernario\bin\Debug\IfTernario.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\IfTernario\bin\Debug\IfTernario.pdb
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\IfTernario\obj\Debug\IfTernario.csproj.AssemblyReference.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\IfTernario\obj\Debug\IfTernario.csproj.CoreCompileInputs.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\IfTernario\obj\Debug\IfTernario.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\IfTernario\obj\Debug\IfTernario.pdb

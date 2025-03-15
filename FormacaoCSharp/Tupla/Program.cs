@@ -35,8 +35,6 @@ namespace Tupla
             {
                 Console.WriteLine("Não foi possível ler o arquivo!");
             }
-        
-        
         }
     }
 

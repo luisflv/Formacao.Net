@@ -1,0 +1,10 @@
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Serializacao\obj\Debug\Serializacao.csproj.AssemblyReference.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Serializacao\obj\Debug\Serializacao.csproj.CoreCompileInputs.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Serializacao\bin\Debug\Serializacao.exe.config
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Serializacao\bin\Debug\Serializacao.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Serializacao\bin\Debug\Serializacao.pdb
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Serializacao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Serializacao\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Serializacao\obj\Debug\Serializacao.csproj.CopyComplete
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Serializacao\obj\Debug\Serializacao.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\Serializacao\obj\Debug\Serializacao.pdb
