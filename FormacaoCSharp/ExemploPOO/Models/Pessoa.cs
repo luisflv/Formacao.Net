@@ -13,7 +13,7 @@ namespace ExemploPOO.Models
 
         public void Apresentar()
         {
-
+            Console.WriteLine("Testando");
         }
         
     }
