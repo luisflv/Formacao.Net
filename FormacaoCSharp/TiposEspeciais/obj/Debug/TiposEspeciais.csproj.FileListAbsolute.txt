@@ -1,0 +1,7 @@
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\TiposEspeciais\bin\Debug\TiposEspeciais.exe.config
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\TiposEspeciais\bin\Debug\TiposEspeciais.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\TiposEspeciais\bin\Debug\TiposEspeciais.pdb
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\TiposEspeciais\obj\Debug\TiposEspeciais.csproj.AssemblyReference.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\TiposEspeciais\obj\Debug\TiposEspeciais.csproj.CoreCompileInputs.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\TiposEspeciais\obj\Debug\TiposEspeciais.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\TiposEspeciais\obj\Debug\TiposEspeciais.pdb

@@ -1,0 +1,7 @@
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\TiposDinamicos\bin\Debug\TiposDinamicos.exe.config
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\TiposDinamicos\bin\Debug\TiposDinamicos.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\TiposDinamicos\bin\Debug\TiposDinamicos.pdb
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\TiposDinamicos\obj\Debug\TiposDinamicos.csproj.AssemblyReference.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\TiposDinamicos\obj\Debug\TiposDinamicos.csproj.CoreCompileInputs.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\TiposDinamicos\obj\Debug\TiposDinamicos.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\TiposDinamicos\obj\Debug\TiposDinamicos.pdb

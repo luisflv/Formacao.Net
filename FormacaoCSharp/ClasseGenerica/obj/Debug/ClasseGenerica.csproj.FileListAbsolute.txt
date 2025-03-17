@@ -1,0 +1,7 @@
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\ClasseGenerica\bin\Debug\ClasseGenerica.exe.config
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\ClasseGenerica\bin\Debug\ClasseGenerica.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\ClasseGenerica\bin\Debug\ClasseGenerica.pdb
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\ClasseGenerica\obj\Debug\ClasseGenerica.csproj.AssemblyReference.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\ClasseGenerica\obj\Debug\ClasseGenerica.csproj.CoreCompileInputs.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\ClasseGenerica\obj\Debug\ClasseGenerica.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\ClasseGenerica\obj\Debug\ClasseGenerica.pdb

@@ -1,0 +1,7 @@
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\MetodoDeExtensao\bin\Debug\MetodoDeExtensao.exe.config
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\MetodoDeExtensao\bin\Debug\MetodoDeExtensao.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\MetodoDeExtensao\bin\Debug\MetodoDeExtensao.pdb
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\MetodoDeExtensao\obj\Debug\MetodoDeExtensao.csproj.AssemblyReference.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\MetodoDeExtensao\obj\Debug\MetodoDeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\MetodoDeExtensao\obj\Debug\MetodoDeExtensao.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\MetodoDeExtensao\obj\Debug\MetodoDeExtensao.pdb
