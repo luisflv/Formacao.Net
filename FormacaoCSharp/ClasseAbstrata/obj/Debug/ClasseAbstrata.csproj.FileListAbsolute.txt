@@ -1,0 +1,7 @@
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\ClasseAbstrata\bin\Debug\ClasseAbstrata.exe.config
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\ClasseAbstrata\bin\Debug\ClasseAbstrata.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\ClasseAbstrata\bin\Debug\ClasseAbstrata.pdb
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\ClasseAbstrata\obj\Debug\ClasseAbstrata.csproj.AssemblyReference.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\ClasseAbstrata\obj\Debug\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\ClasseAbstrata\obj\Debug\ClasseAbstrata.exe
+C:\Users\Luís Fernando\source\repos\Formacao.Net\FormacaoCSharp\ClasseAbstrata\obj\Debug\ClasseAbstrata.pdb

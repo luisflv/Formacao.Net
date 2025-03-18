@@ -20,7 +20,7 @@ namespace ClasseGenerica
             arrayString.AdicionarElementoArray("Texto");
             Console.WriteLine(arrayString[0]);
 
-            List
+            
         }
     }
 
