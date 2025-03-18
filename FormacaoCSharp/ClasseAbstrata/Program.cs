@@ -10,7 +10,7 @@ namespace ClasseAbstrata
     {
         static void Main(string[] args)
         {
-
+            //Teste
             Corrente c = new Corrente();
 
             c.Creditar(500);
