@@ -41,7 +41,7 @@ namespace Colecoes
                 Console.WriteLine($"Nome: {item}");
             }
 
-            Console.WriteLine("Removendo o nome Luís...");
+            Console.WriteLine("Removendo o nome Luís da lista...");
             nomes.Remove("Luís");
 
             Console.WriteLine("--------------------");
