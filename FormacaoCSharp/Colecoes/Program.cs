@@ -20,16 +20,25 @@ namespace Colecoes
 
         static void VetorArray()
         {
+            Console.WriteLine("============================");
+            Console.WriteLine("|        VETOR - ARRAY     |");
+            Console.WriteLine("============================");
+
             string[] vetNomes = { "Cristina", "Luís", "Lucas" };
 
+            foreach (var item in vetNomes)
+            {
+                Console.WriteLine($"Nome: {item}");
+            }
 
         }
 
         static void ListaList()
         {
-            Console.WriteLine("--------------------");
+            Console.WriteLine("============================");
+            Console.WriteLine("|        LISTA - LIST      |");
+            Console.WriteLine("============================");
 
-            Console.WriteLine("LISTA - LIST");
             List<string> nomes = new List<string>();
 
             nomes.Add("Cristina");
@@ -50,18 +59,35 @@ namespace Colecoes
             {
                 Console.WriteLine($"Nome: {item}");
             }
+
+            Console.WriteLine("***************************************");
+
         }
 
         private static void FilaQueue()
         {
+            Console.WriteLine("============================");
+            Console.WriteLine("|        FILA - QUEUE      |");
+            Console.WriteLine("============================");
+
+            Queue<string> filaNomes = new Queue<string>();
+
+            filaNomes.Enqueue("Luís");
+
+            foreach (var item in filaNomes)
+            {
+                Console.WriteLine($"Nomes: {item}");
+            }
+            Console.WriteLine("***************************************");
 
         }
 
         static void PilhaStack()
         {
-            Console.WriteLine("--------------------");
+            Console.WriteLine("============================");
+            Console.WriteLine("|        PILHA - STACK      |");
+            Console.WriteLine("============================");
 
-            Console.WriteLine("PILHA - STACK");
             Stack<string> pilhaNomes = new Stack<string>();
 
             pilhaNomes.Push("Flamengo");
@@ -81,6 +107,7 @@ namespace Colecoes
             {
                 Console.WriteLine($"Nome: {item}");
             }
+            Console.WriteLine("***************************************");
 
         }
 
@@ -129,6 +156,7 @@ namespace Colecoes
             {
                 Console.WriteLine("Essa chave não existe! É seguro adicionar essa chave.");
             }
+            Console.WriteLine("***************************************");
 
         }
     }
